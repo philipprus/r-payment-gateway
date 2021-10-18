@@ -33,7 +33,7 @@ If everything works fine you should be able to access the `/healthcheck` endpoin
 
 ### Mock server
 
-As part of the simulation there is a mock server that you will have to work against. In order to make sure things are as smooth as possible we've made sure that upon accessing the `/healthcheck` endpoint we're also checking whether the mock server is accessible. If it fails please **contact your interviewer ASAP**.
+As part of the simulation there is a mock server that you will have to work against. In order to make sure things are as smooth as possible we've made sure that upon accessing the `/healthcheck` endpoint we're also checking whether the mock server is accessible.  
 
 
 **Good luck!**
